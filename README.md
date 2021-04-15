@@ -2,8 +2,8 @@
 <h3 align="center">I love to solve problems and make projects. Enthusiastic about AI-ML-DL and Algorithms.</h3>
 
 <p align="center">
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/farhad324?tab=repositories)
-- 📫 How to reach me **farhadulfuad324@gmail.com**
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/farhad324?tab=repositories)\
+- 📫 How to reach me **farhadulfuad324@gmail.com**\
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sXpR0Xkg7GNU2iFImO0b6E-XKtM97toh/view?usp=sharing)
 </p>
 
