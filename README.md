@@ -18,5 +18,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhad324&show_icons=true&locale=en&layout=compact" alt="farhad324" /></p>
 
 <p align="center">
-  ![AI](aigif.gif)
+  <img src="https://github.com/farhad324/farhad324/blob/main/aigif.gif">
 </p>
