@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Farhadul Islam</h1>
 <h3 align="center">I love to solve problems and make projects. Enthusiastic about AI-ML-DL and Algorithms.</h3>
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
-  </tr>
-</table>
-
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/farhad324?tab=repositories)
 
 - 📫 How to reach me **farhadulfuad324@gmail.com**
