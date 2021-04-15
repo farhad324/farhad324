@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhad324&show_icons=true&locale=en" alt="farhad324" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad324&" alt="farhad324" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=farhad324&" alt="farhad324" /></p>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <p align="center">
