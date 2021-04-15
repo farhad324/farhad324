@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhad324&show_icons=true&locale=en&layout=compact" alt="farhad324" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farhad324&show_icons=true&locale=en" alt="farhad324" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=farhad324&show_icons=true&locale=en" alt="farhad324" /></p>
 
 
 
