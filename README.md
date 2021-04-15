@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/farhad324/farhad324/blob/main/welcomeascii.gif">
+  <img src="https://github.com/farhad324/farhad324/blob/main/asciiwelcome.gif">
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Farhadul Islam</h1>
@@ -24,5 +24,5 @@
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <p align="center">
-  <img src="https://github.com/farhad324/farhad324/blob/main/aigif.gif">
+  <img src="https://github.com/farhad324/farhad324/blob/main/asciibrain.gif">
 </p>
