@@ -7,8 +7,8 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sXpR0Xkg7GNU2iFImO0b6E-XKtM97toh/view?usp=sharing)
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://www.youtube.com/channel/UCHX_INrjuczwWjcJTLVWznA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uchx_inrjuczwwjcjtlvwzna" height="30" width="40" /></a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=farhad324&show_icons=true&locale=en" alt="farhad324" /></p>
 
-
+<br/>
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <p align="center">
