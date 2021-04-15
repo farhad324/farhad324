@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md. Farhadul Islam</h1>
 <h3 align="center">I love to solve problems and make projects. Enthusiastic about AI-ML-DL and Algorithms.</h3>
 
-<p align="center">
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/farhad324?tab=repositories)<br/>
-- 📫 How to reach me **farhadulfuad324@gmail.com**<br/>
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sXpR0Xkg7GNU2iFImO0b6E-XKtM97toh/view?usp=sharing)<br/>
-</p>
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/farhad324?tab=repositories)
+
+- 📫 How to reach me **farhadulfuad324@gmail.com**
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sXpR0Xkg7GNU2iFImO0b6E-XKtM97toh/view?usp=sharing)
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
