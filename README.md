@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md. Farhadul Islam</h1>
 <h3 align="center">I love to solve problems and make projects. Enthusiastic about AI-ML-DL and Algorithms.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhad324&label=Profile%20views&color=0e75b6&style=flat" alt="farhad324" /> </p>
+
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/farhad324?tab=repositories)
 
 - 📫 How to reach me **farhadulfuad324@gmail.com**
