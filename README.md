@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github.com/farhad324/farhad324/blob/main/eye.gif" width="80" height="80">
+  <img src="https://github.com/farhad324/farhad324/blob/main/eye.gif" width="80" height="80">
+</p>
+<p align="center">
   <img src="https://github.com/farhad324/farhad324/blob/main/asciiwelcome.gif">
 </p>
 
