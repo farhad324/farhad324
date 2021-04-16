@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **farhadulfuad324@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sXpR0Xkg7GNU2iFImO0b6E-XKtM97toh/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://github.com/farhad324/farhad324/blob/main/resume/Resume%20-%20Md.%20Farhadul%20Islam%20Fuad.pdf)
 
 
 <h2 align="left">Connect with me:</h2>
