@@ -26,7 +26,7 @@
 <p align="center">
   <img src="https://github.com/farhad324/farhad324/blob/main/asciibrain.gif">
 </p>
-<p align="left">
+<p align="center">
   <img src="https://github.com/farhad324/farhad324/blob/main/doge.gif" width="80" height="80">
   <img src="https://github.com/farhad324/farhad324/blob/main/doge.gif" width="80" height="80">
   <img src="https://github.com/farhad324/farhad324/blob/main/doge.gif" width="80" height="80">
