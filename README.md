@@ -16,8 +16,10 @@
 
 - 📄 Know about my experiences [Resume](https://github.com/farhad324/farhad324/blob/main/resume/Resume%20-%20Md.%20Farhadul%20Islam%20Fuad.pdf)
 
-- 🔭 Currently working at [Ronin Technologies](https://www.linkedin.com/company/ronin-ai/) 
+- 💻 Currently working at [Ronin Technologies](https://www.linkedin.com/company/ronin-ai/) 
 
+
+- ⚡ Fun fact about Python **The language’s name isn’t about snakes, but about the popular British comedy troupe Monty Python (from the 1970s). Guido himself is a big fan of Monty Python’s Flying Circus. Being in a rather irreverent mood, he named the project ‘Python’.**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
