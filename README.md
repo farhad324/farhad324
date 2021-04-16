@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/farhad324/farhad324/blob/main/eye.gif" width="90" height="80">
-  <img src="https://github.com/farhad324/farhad324/blob/main/eye.gif" width="90" height="80">
+  <img src="https://github.com/farhad324/farhad324/blob/main/eye.gif" width="100" height="80">
+  <img src="https://github.com/farhad324/farhad324/blob/main/mouth.gif" width="60" height="60">
+  <img src="https://github.com/farhad324/farhad324/blob/main/eye.gif" width="100" height="80">
 </p>
 <p align="center">
   <img src="https://github.com/farhad324/farhad324/blob/main/asciiwelcome.gif">
