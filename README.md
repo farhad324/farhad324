@@ -16,6 +16,8 @@
 
 - 📄 Know about my experiences [Resume](https://github.com/farhad324/farhad324/blob/main/resume/Resume%20-%20Md.%20Farhadul%20Islam%20Fuad.pdf)
 
+- 🔭 Currently working at [Ronin Technologies](https://www.linkedin.com/company/ronin-ai/) 
+
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
