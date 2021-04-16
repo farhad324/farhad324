@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact about Python: **The language’s name isn’t about snakes, but about the popular British comedy troupe Monty Python (from the 1970s). Guido is a huge fan of Monty Python's Flying Circus. In a irreverent mood, he named the project 'Python.'**
 
-<h2 align="left"><img  src="https://github.com/farhad324/farhad324/blob/main/connect.gif" width="65px">Connect with me:</h2>
+<h2 align="left"><img  src="https://github.com/farhad324/farhad324/blob/main/connect.gif" width="55px">Connect with me:</h2>
 <p align="left">
 <a href="https://www.youtube.com/channel/UCHX_INrjuczwWjcJTLVWznA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uchx_inrjuczwwjcjtlvwzna" height="30" width="40" /></a>
 
