@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhad324&show_icons=true&locale=en&layout=compact" alt="farhad324" /></p>
 <p align="right">
-  <img src="https://github.com/farhad324/farhad324/blob/main/gitgif.gif" width="200" height="200">
+  <img src="https://github.com/farhad324/farhad324/blob/main/gitgif.gif" width="150" height="150">
 </p>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
 <p align="center">
