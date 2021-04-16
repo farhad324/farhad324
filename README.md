@@ -18,7 +18,7 @@
 
 - 💻 Currently working at: [Ronin Technologies](https://www.linkedin.com/company/ronin-ai/) 
 
-- ⚡ Fun fact about Python: **The language’s name isn’t about snakes, but about the popular British comedy troupe Monty Python (from the 1970s).**
+- ⚡ Fun fact about Python: **The language’s name isn’t about snakes, but about the popular British comedy troupe Monty Python (from the 1970s). Guido is a huge fan of Monty Python's Flying Circus. In a irreverent mood, he named the project 'Python.'**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
