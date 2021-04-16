@@ -27,11 +27,8 @@
   <img src="https://github.com/farhad324/farhad324/blob/main/asciibrain.gif">
 </p>
 <p align="left">
-  <img src="https://github.com/farhad324/farhad324/blob/main/doge.gif" width="50" height="50">
+  <img src="https://github.com/farhad324/farhad324/blob/main/doge.gif" width="80" height="80">
+  <img src="https://github.com/farhad324/farhad324/blob/main/doge.gif" width="80" height="80">
+  <img src="https://github.com/farhad324/farhad324/blob/main/doge.gif" width="80" height="80">
 </p>
-<p align="center">
-  <img src="https://github.com/farhad324/farhad324/blob/main/doge.gif" width="50" height="50">
-</p>
-<p align="right">
-  <img src="https://github.com/farhad324/farhad324/blob/main/doge.gif" width="50" height="50">
-</p>
+
