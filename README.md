@@ -8,6 +8,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Md. Farhadul Islam</h1>
+<h1 align="center">Hi There, I'm  Md. Farhadul Islam< <img  src="https://github.com/farhad324/farhad324/blob/main/hi.gif" width="30px"></h1>
 <h3 align="center">I love to solve problems and make projects. Enthusiastic about AI-ML-DL and Algorithms.</h3>
 
 - 👨‍💻 All of my projects are available at: [Repositories](https://github.com/farhad324?tab=repositories)
