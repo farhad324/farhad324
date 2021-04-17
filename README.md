@@ -23,7 +23,7 @@
 
 <h2 align="left"><img  src="https://github.com/farhad324/farhad324/blob/main/connect.gif" width="50px">Connect with me:</h2>
 <p align="left">
-<a href="www.linkedin.com/in/md-farhadul-islam-301abb167" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/md-farhadul-islam-301abb167/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-farhadul-islam-301abb167/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/md-farhadul-islam-301abb167/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100006250366850" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006250366850" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCHX_INrjuczwWjcJTLVWznA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="https://www.youtube.com/channel/uchx_inrjuczwwjcjtlvwzna" height="30" width="40" /></a>
 </p>
