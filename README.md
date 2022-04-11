@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences: [Resume](https://github.com/farhad324/farhad324/blob/main/resume/Resume%20-%20Md.%20Farhadul%20Islam%20Fuad.pdf)
 
-- 💻 Currently working as: Student Tutor, and Research Assistant at BRAC University
+- 💻 Currently working as a **Student Tutor, and a Research Assistant at BRAC University**
 
 - 🔬 Research Profiles: [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1644) 
 
