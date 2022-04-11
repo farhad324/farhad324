@@ -13,11 +13,11 @@
 
 - 👨‍💻 All of my projects are available at: [Repositories](https://github.com/farhad324?tab=repositories)
 
-- 📫 How to reach me: **farhadulfuad324@gmail.com**
+- 📫 How to reach me: **farhadulfuad324@gmail.com** **md.farhadul.islam@g.bracu.ac.bd**
 
 - 📄 Know about my experiences: [Resume](https://github.com/farhad324/farhad324/blob/main/resume/Resume%20-%20Md.%20Farhadul%20Islam%20Fuad.pdf)
 
-- 💻 Currently working at: [Ronin Technologies](https://www.linkedin.com/company/ronin-ai/) 
+- 💻 Currently working as: Student Tutor, and Research Assistant at BRAC University
 
 - 🔬 Research Profiles: [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1644) 
 
