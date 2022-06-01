@@ -7,7 +7,7 @@
   <img src="https://github.com/farhad324/farhad324/blob/main/asciiwelcome.gif">
 </p>
 
-<h2 align="center">Hi, I'm  Md. Farhadul Islam <img  src="https://github.com/farhad324/farhad324/blob/main/hi.gif" width="15px"></h2>
+<h1 align="center">Hi, I'm  Md. Farhadul Islam </h1>
 
 <h3 align="center">I love to solve problems and make projects. Enthusiastic about AI-ML-DL and Algorithms.</h3>
 
@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact about Python: **The language’s name isn’t about snakes, but about the popular British comedy troupe Monty Python (from the 1970s). Guido is a huge fan of Monty Python's Flying Circus. In a irreverent mood, he named the project 'Python.'**
 
-<h2 align="left"><img  src="https://github.com/farhad324/farhad324/blob/main/connect.gif" width="10px">Connect with me:</h2>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/md-farhadul-islam-301abb167/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/md-farhadul-islam-301abb167/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100006250366850" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/profile.php?id=100006250366850" height="30" width="40" /></a>
