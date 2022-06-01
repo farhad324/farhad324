@@ -7,7 +7,7 @@
   <img src="https://github.com/farhad324/farhad324/blob/main/asciiwelcome.gif">
 </p>
 
-<h1 align="center">Hi, I'm  Md. Farhadul Islam <img  src="https://github.com/farhad324/farhad324/blob/main/hi.gif" width="15px"></h1>
+<h2 align="center">Hi, I'm  Md. Farhadul Islam <img  src="https://github.com/farhad324/farhad324/blob/main/hi.gif" width="15px"></h2>
 
 <h3 align="center">I love to solve problems and make projects. Enthusiastic about AI-ML-DL and Algorithms.</h3>
 
