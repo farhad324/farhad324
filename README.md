@@ -19,7 +19,9 @@
 
 - 💻 Currently working as a **Student Tutor**, and an **Undergraduate Research Assistant** at **BRAC University**
 
-- 🔬 Research Profiles: [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1644) 
+- 🔬 Research Profiles: [Google Scholar](https://scholar.google.com/citations?user=DFBZxDQAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1644)
+
+- ORCID - [Md. Farhadul Islam - 0000-0003-3249-4490](https://orcid.org/my-orcid?orcid=0000-0003-3249-4490)
 
 - ⚡ Fun fact about Python: **The language’s name isn’t about snakes, but about the popular British comedy troupe Monty Python (from the 1970s). Guido is a huge fan of Monty Python's Flying Circus. In a irreverent mood, he named the project 'Python.'**
 
