@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi, I'm  Md. Farhadul Islam </h1>
 
-<h3 align="center">I love to solve problems and make projects. Enthusiastic about AI-ML-DL and Algorithms.</h3>
+<h3 align="center">Deep Learning || Algorithms || Mathematical & Statistical Modeling || Steganography </h3>
 
 - 👨‍💻 All of my projects are available at: [Repositories](https://github.com/farhad324?tab=repositories)
 
