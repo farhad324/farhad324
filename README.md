@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi, I'm  Md. Farhadul Islam </h1>
 
-<h3 align="center">Deep Learning || Algorithms || Mathematical & Statistical Modeling || Steganography </h3>
+<h3 align="center">Deep Learning || Medical Image Processing and Analysis || Algorithms || Mathematical & Statistical Modeling || Steganography </h3>
 
 - 👨‍💻 All of my projects are available at: [Repositories](https://github.com/farhad324?tab=repositories)
 
