@@ -7,9 +7,11 @@
   <img src="https://github.com/farhad324/farhad324/blob/main/asciiwelcome.gif">
 </p>
 
-<h1 align="center">Hi, I'm  Md. Farhadul Islam </h1>
+<h1 align="center">Hi, I'm  Md. Farhadul Islam</h1>
 
-<h3 align="center">Deep Learning || Medical Image Processing & Analysis || Algorithms || Mathematical & Statistical Modeling || Steganography </h3>
+<h3 align="center">Deep Learning Architectures || AI in Medical Imaging || Reliable & Trustworthy AI || Computational Social Science || NLP in Healthcare || Statistical Data Analysis </h3>
+
+- Personal Website: [Md. Farhadul Islam](https://sites.google.com/g.bracu.ac.bd/mdfarhadulislam)
 
 - 👨‍💻 All of my projects are available at: [Repositories](https://github.com/farhad324?tab=repositories)
 
