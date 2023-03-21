@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at: [Repositories](https://github.com/farhad324?tab=repositories)
 
-- 📫 How to reach me: **farhadulfuad324@gmail.com** **md.farhadul.islam@g.bracu.ac.bd**
+- 📫 How to reach me: **farhadulfuad324@gmail.com** or **md.farhadul.islam@g.bracu.ac.bd**
 
 - 📄 Know about my experiences: [CV](https://github.com/farhad324/farhad324/blob/main/CV/CV%20-Md.%20Farhadul%20Islam.pdf)
 
-- 💻 Currently working as a **Student Tutor**, and an **Undergraduate Research Assistant** at **BRAC University**
+- 💻 Currently working as a **Student Tutor**, **Teaching Assistant**, and an **Undergraduate Research Assistant** at **BRAC University**
 
 - 🔬 Research Profiles: [Google Scholar](https://scholar.google.com/citations?user=DFBZxDQAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1644)
 
