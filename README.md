@@ -7,7 +7,7 @@
   <img src="https://github.com/farhad324/farhad324/blob/main/asciiwelcome.gif">
 </p>
 
-<h1 align="center">Hi, I'm  Md. Farhadul Islam</h1>
+<h1 align="center">Hi, I'm  Farhad</h1>
 
 <h3 align="center">Deep Learning Architectures || AI in Medical Imaging || Reliable & Trustworthy AI || Computational Social Science || NLP in Healthcare || Statistical Data Analysis </h3>
 
