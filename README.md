@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences: [CV](https://github.com/farhad324/farhad324/blob/main/CV/CV%20-Md.%20Farhadul%20Islam.pdf)
 
-- 💻 Currently working as a ** Graduate Research Assistant** at **Dept. of CSE, BRAC University**
+- 💻 Currently working as a **Graduate Research Assistant** at **Dept. of CSE, BRAC University**
 
 - 🔬 Research Profiles: [Google Scholar](https://scholar.google.com/citations?user=DFBZxDQAAAAJ&hl=en), [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1644)
 
