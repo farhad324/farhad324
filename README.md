@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at: [Repositories](https://github.com/farhad324?tab=repositories)
 
-- 📫 How to reach me: **farhadulfuad324@gmail.com** or **md.farhadul.islam@g.bracu.ac.bd**
+- 📫 How to reach me: **farhadulfuad324@gmail.com** or **farhadul.islam@bracu.ac.bd**
 
 - 📄 Know about my experiences: [CV](https://github.com/farhad324/farhad324/blob/main/CV/CV%20-Md.%20Farhadul%20Islam.pdf)
 
