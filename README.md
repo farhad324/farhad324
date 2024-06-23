@@ -21,7 +21,7 @@
 
 - 💻 Currently working as a **Graduate Research Assistant** at **Dept. of CSE, BRAC University**
 
-- 🔬 Research Profiles: [Google Scholar](https://scholar.google.com/citations?user=WVy-CmcAAAAJ&hl), [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1644)
+- 🔬 Research Profiles: [Google Scholar](https://scholar.google.com/citations?user=4a4covIAAAAJ&hl), [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1644)
 
 - ORCID - 0000-0003-3249-4490
 
