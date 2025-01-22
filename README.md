@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1ooIrA7uB9uIDl2INnAgk9i6glVZXd4Jc/view?usp=sharing)
 
-- 💻 Currently working as a **Graduate Research Assistant** at **Dept. of CSE, BRAC University**
+- 💻 Currently working as a **Research Assistant** at **Dept. of CSE, BRAC University**
 
 - 🔬 Research Profiles: [Google Scholar](https://scholar.google.com/citations?user=4a4covIAAAAJ&hl), [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1644)
 
