@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: **farhadulfuad324@gmail.com** or **farhadul.islam@bracu.ac.bd**
 
-- 📄 Know about my experiences: [CV](https://github.com/farhad324/farhad324/blob/main/CV/CV%20-Md.%20Farhadul%20Islam.pdf)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1ooIrA7uB9uIDl2INnAgk9i6glVZXd4Jc/view?usp=sharing)
 
 - 💻 Currently working as a **Graduate Research Assistant** at **Dept. of CSE, BRAC University**
 
