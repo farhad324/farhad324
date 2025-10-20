@@ -9,17 +9,17 @@
 
 <h1 align="center">Hi, I'm  Farhad</h1>
 
-<h3 align="center">Deep Learning Architectures || AI in Medical Imaging || Reliable & Trustworthy AI || Sustainable Computing || Resource Efficient Deep Learning || Statistical Data Analysis </h3>
+<h3 align="center"> Efficiency in Deep Learning || Hardware-Software Co-Design for AI Systems || Sustainable Computing || Medical Imaging </h3>
 
+- 💻 Incoming CS-PhD Student @University of Kentucky
+  
 - Personal Website: [Md. Farhadul Islam](https://sites.google.com/g.bracu.ac.bd/mdfarhadulislam)
 
 - 👨‍💻 All of my projects are available at: [Repositories](https://github.com/farhad324?tab=repositories)
 
-- 📫 How to reach me: **farhadulfuad324@gmail.com** or **farhadul.islam@bracu.ac.bd**
+- 📫 How to reach me: **farhadulfuad324@gmail.com** or **Farhadul.Islam@uky.edu**
 
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1JDCAnjhEP9g2K9xruPd0AfF7lfGZ2Byg/view?usp=sharing)
-
-- 💻 Currently working as a **Research Assistant** at **Dept. of CSE, BRAC University**
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1Wh9CTb_QWE1OgiIEFEQFBmqxqvSzRCZB/view)
 
 - 🔬 Research Profiles: [Google Scholar](https://scholar.google.com/citations?user=4a4covIAAAAJ&hl), [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1644)
 
