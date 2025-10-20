@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi, I'm  Farhad</h1>
 
-<h3 align="center"> Deep Learning || Hardware-Software Co-Design for Efficient AI Systems || Sustainable Computing || Computer Vision </h3>
+<h3 align="center"> Deep Learning || Hardware-Software Co-Design for Efficient AI || Sustainable Computing || Computer Vision </h3>
 
 - 💻 Incoming CS-PhD Student @University of Kentucky
   
