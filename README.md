@@ -13,7 +13,7 @@
 
 - 💻 Incoming CS-PhD Student @University of Kentucky
   
-- Personal Website: [Md. Farhadul Islam](https://sites.google.com/view/farhadul)
+- Personal Website: [Md Farhadul Islam](https://sites.google.com/view/farhadul)
 
 - 👨‍💻 All of my projects are available at: [Repositories](https://github.com/farhad324?tab=repositories)
 
