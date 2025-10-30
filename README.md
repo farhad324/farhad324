@@ -19,7 +19,7 @@
 
 - 📫 How to reach me: **farhadulfuad324@gmail.com** or **Farhadul.Islam@uky.edu**
 
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1Wh9CTb_QWE1OgiIEFEQFBmqxqvSzRCZB/view)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1WMcNm70Iq5qwHaQ9HFg3D1uEUshCiM3S/view?usp=sharing)
 
 - 🔬 Research Profiles: [Google Scholar](https://scholar.google.com/citations?user=4a4covIAAAAJ&hl), [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1644)
 
