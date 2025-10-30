@@ -13,13 +13,13 @@
 
 - 💻 Incoming CS-PhD Student @University of Kentucky
   
-- Personal Website: [Md. Farhadul Islam](https://sites.google.com/g.bracu.ac.bd/mdfarhadulislam)
+- Personal Website: [Md. Farhadul Islam](https://sites.google.com/view/farhadul)
 
 - 👨‍💻 All of my projects are available at: [Repositories](https://github.com/farhad324?tab=repositories)
 
 - 📫 How to reach me: **farhadulfuad324@gmail.com** or **Farhadul.Islam@uky.edu**
 
-- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1WMcNm70Iq5qwHaQ9HFg3D1uEUshCiM3S/view?usp=sharing)
+- 📄 Know about my experiences: [CV](https://drive.google.com/file/d/1bl0bWa6TbW3X_JHyoZKwa4t7e5o-050R/view?usp=sharing)
 
 - 🔬 Research Profiles: [Google Scholar](https://scholar.google.com/citations?user=4a4covIAAAAJ&hl), [ResearchGate](https://www.researchgate.net/profile/Md-Islam-1644)
 
