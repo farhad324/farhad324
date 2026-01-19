@@ -11,7 +11,7 @@
 
 <h3 align="center"> Deep Learning || Hardware-Software Co-Design for Efficient AI || Sustainable Computing for Vision and AI </h3>
 
-- 💻 Incoming CS-PhD Student @University of Kentucky
+- 💻 CS-PhD Student & Graduate Research Assistant @University of Kentucky
   
 - Personal Website: [Md Farhadul Islam](https://sites.google.com/view/farhadul)
 
