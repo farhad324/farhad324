@@ -9,7 +9,7 @@
 
 <h1 align="center">Hi, I'm  Farhad</h1>
 
-<h3 align="center"> Deep Learning || Neuromorphic Computing with Emerging Tech || Hardware-Software Co-Design for Efficient AI || </h3>
+<h3 align="center"> Deep Learning || Neuromorphic Computing with Emerging Tech || Hardware-Software Co-Design for AI || </h3>
 
 - 💻 CS-PhD Student & Graduate Research Assistant @University of Kentucky
   
